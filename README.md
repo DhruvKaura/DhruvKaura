@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhruv Kaura and I'm a Software Developer from Ludhiana</p>
+<p align="left">My name is Dhruv Kaura and I'm a Web Developer from Ludhiana</p>
 
 ###
 
