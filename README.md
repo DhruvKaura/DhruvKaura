@@ -2,73 +2,58 @@
   <!-- HEADER: gradient wave -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=HANNYTHECORE&fontSize=70&fontAlignY=40&animation=twinkling&section=header"
-    alt="HANNYTHECORE header"
+        src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DHRUV%20KAURA"
+    alt="DHRUV KAURA header"
   />
 </div>
 
 <!-- Typing line: KEEP -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+hnnthecore;IT+Support+%26+Cybersecurity+Enthusiast;Based+in+Switzerland+%F0%9F%87%A8%F0%9F%87%AD"
-    alt="Typing intro"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Based+in+India+IN;Web+Developer+and+Designer" alt="Typing SVG"
   />
 </div>
 
 <p align="center">
   <!-- Public & anonymous links (no email, no real name) -->
-  <a href="https://www.linkedin.com/in/hnnthecore/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hnnthecore-0077B5?logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/dhruv-kaura/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dhruvkaura-0077B5?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/hnnthecore">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-hnnthecore-111?logo=github&logoColor=white">
+  <a href="https://github.com/DhruvKaura/">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-dhruvkaura-111?logo=github&logoColor=white">
   </a>
-  <a href="https://hannythecore.ch/">
+  <!-- <a href="https://hannythecore.ch/">
     <img alt="Website" src="https://img.shields.io/badge/Website-hannythecore.ch-111?logo=vercel&logoColor=white">
-  </a>
+  </a> -->
   <!-- Safe contact: Issues/Discussions instead of email -->
-  <a href="https://github.com/hnnthecore/hnnthecore/discussions">
+  <!-- <a href="https://github.com/hnnthecore/hnnthecore/discussions">
     <img alt="Contact" src="https://img.shields.io/badge/Contact-Discussions-0A66C2?logo=github&logoColor=white">
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
   <!-- Basic metrics -->
-  <img src="https://komarev.com/ghpvc/?username=hnnthecore&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hnnthecore?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hnnthecore?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=DhruvKaura&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DhruvKaura?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/DhruvKaura?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars" />
 </p>
 
 ---
 
 ## 🚀 At a glance
- 🛠️ Networking (CCNA), cybersecurity (Security+, CEH), AD hardening, light automation.
- 🔎 Focus: OS troubleshooting, IPv4/IPv6, VLAN/ACL/NAT, traffic analysis (Wireshark).
- 🧪 Home Lab: pfSense, Wazuh, honeypot, AD lab.
+🛠️ Core Skills: JavaScript, HTML5, CSS3, Responsive Design
+⚙️ Frontend: React.js, UI/UX implementation, Performance Optimization
+🧩 Backend: Node.js, Express.js, REST APIs
+🗄️ Databases: MongoDB, MySQL
+🐍 Python Stack: Python, Django, Flask
+🌐 CMS & Builders: WordPress, Shopify, Webflow, Framer
+🎨 Design & Prototyping: Figma (Wireframes, UI Systems)
+🔗 Focus: Full-stack web development, scalable applications, modern UI/UX, API integrations, and real-world project delivery
 
 ## 🧰 Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,python,docker,ansible&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,mysql,tailwind,html,css,wordpress,figma,webflow&perline=12" />
 </div>
-
-## 🏅 Certifications
-<p align="center">
-  <img alt="CCNA" src="https://img.shields.io/badge/Cisco-CCNA-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white">
-  <img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-EA3E24?style=for-the-badge&logo=comptia&logoColor=white">
-  <img alt="CompTIA ITF+" src="https://img.shields.io/badge/CompTIA-ITF%2B-EA3E24?style=for-the-badge&logo=comptia&logoColor=white">
-  <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-EA3E24?style=for-the-badge&logo=comptia&logoColor=white">
-  <img alt="EC-Council CEH" src="https://img.shields.io/badge/EC--Council-CEH-000?style=for-the-badge&logo=gnometerminal&logoColor=white">
-</p>
-
-> ✅ **Proof available on request** via GitHub Discussions / LinkedIn.  
-
-## ✨ Featured projects
-<!-- Update repo names if needed, or remove the whole section -->
-<p align="center">
-  <a href="https://github.com/hnnthecore/Networking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hnnthecore&repo=Networking&theme=transparent&hide_border=true" />
-  </a>
-</p>
 
 ## 📊 Stats
 <div align="center">
@@ -78,17 +63,17 @@
 </div>
 
 ## 🏆 Trophies & Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hnnthecore&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhruvKaura&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnnthecore&theme=github-compact&radius=8&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvKaura&theme=github-compact&radius=8&hide_border=true" />
 </p>
 
 <!-- Snake (needs GitHub Actions: Platane/snk) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hnnthecore/hnnthecore/main/assets/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/hnnthecore/DhruvKaura/main/assets/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
