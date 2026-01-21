@@ -57,9 +57,9 @@
 
 ## 📊 Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hnnthecore&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=hnnthecore&mode=weekly&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnnthecore&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhruvKaura&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=DhruvKaura&mode=weekly&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKaura&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
 </div>
 
 ## 🏆 Trophies & Activity
